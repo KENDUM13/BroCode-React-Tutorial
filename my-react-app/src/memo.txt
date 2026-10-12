@@ -11,6 +11,7 @@
 
 2일차) 26.09.28 월 
   - html에 css 문법을 써주려면 {} 안에 넣어줘야 한다.
+    : ex. 변수나 함수명을 사용해줄때
 
   - className='name'
     : css 파일에서 .name으로 불러와서 디자인을 해줄 수 있다.
@@ -19,3 +20,13 @@
   - display: inline-block;
   - inline-block
     : 카드가 여러개 있어도 컨테이너 안에서 자연스럽에 이어지도록 함
+
+3일차) 26.10.02 금
+  - component에 css 적용 방법 3가지
+  1. EXTERNAL
+    : css 파일에 직접 적용하기
+  2. MODULES
+    : component 관리 폴더를 만들어서 적용하기
+    import styles from './Button.module.css'
+    className={styles.button}
+  3. INLINE (왜 여기서 멈춤?)
