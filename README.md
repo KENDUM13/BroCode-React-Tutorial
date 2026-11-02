@@ -1,16 +1,19 @@
-# React + Vite
+# BroCode-React-tutorial-for-beginners
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+> 이것은 **REACT** 라는 것을 처음 배우는 사람의 노트
 
-Currently, two official plugins are available:
+### 이 사람은 프론트 공부를 한 적이 없습니다!!!
+도대체 뭘 하고 싶은 걸까요?   
+일단, html와 css 기초는 해봤으니...   
+무작정 머리를 박아보기로 했습니다! 👍
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### 현재 진행도
+[3/20]   
+[***--/-----/-----/-----] 
 
-## React Compiler
+### 오늘의 한 마디
+"이 인간은 게으르군요. 젠장, 공부해라 인간!" 📅26.10.12 ⏲️16:47   
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+#### 공부 영상
+BroCode:React-tutorial-for-beginners   
+[Link](https://youtu.be/hn80mWvP-9g?si=yJq6e3EY4_RNXqkG)
